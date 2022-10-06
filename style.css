@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color: blue;
+  border-bottom: 1px solid;
+}
+h2{
+  color: blue;
+  border-bottom: 1px solid;
+}
+body {
+  background-color:whitesmoke;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
